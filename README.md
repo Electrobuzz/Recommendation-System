@@ -37,8 +37,8 @@ The project uses the [MovieLens 100K dataset](https://grouplens.org/datasets/mov
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/recommendation-system.git
-    cd recommendation-system
+    git clone https://github.com/ElectroBuzz/Recommendation-System.git
+    cd Recommendation-System
     ```
 
 2. Install the required libraries:
@@ -52,7 +52,7 @@ The project uses the [MovieLens 100K dataset](https://grouplens.org/datasets/mov
 
 1. Run the script:
     ```sh
-    python recommendation_system.py
+    python Recommendation_System.py
     ```
 
 2. Follow the prompts to enter your user ID and the last movie you watched to get movie recommendations.
