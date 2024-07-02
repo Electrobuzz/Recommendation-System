@@ -52,7 +52,7 @@ The project uses the [MovieLens 100K dataset](https://grouplens.org/datasets/mov
 
 1. Run the script:
     ```sh
-    python Recommendation_System.py
+    jupyter notebook "Project - Recommendation system.ipynb"
     ```
 
 2. Follow the prompts to enter your user ID and the last movie you watched to get movie recommendations.
